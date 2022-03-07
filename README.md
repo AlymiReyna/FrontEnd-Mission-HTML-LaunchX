@@ -15,3 +15,5 @@ En este repositorio se encuentran las actividades realizadas durante la semana 2
 * El pastelero necesita tener la información de la cantidad de adornos que le quedan para hacer los pasteles.
 * El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 * La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
+
+![Chantilly](https://user-images.githubusercontent.com/87091868/156973972-f8f7a199-b9b0-4048-9ac7-6ec5db801fee.png)
